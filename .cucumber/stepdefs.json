@@ -1,0 +1,47 @@
+[
+  {
+    "source": "^the input \"(.*?)\"$",
+    "flags": "",
+    "file_colon_line": "step_definitions/calculator_steps.rb:1",
+    "steps": [
+      {
+        "name": "the input \"<input>\"",
+        "args": [
+          {
+            "offset": 11,
+            "val": "<input>"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^the calculator is run$",
+    "flags": "",
+    "file_colon_line": "step_definitions/calculator_steps.rb:5",
+    "steps": [
+      {
+        "name": "the calculator is run",
+        "args": [
+
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^the output should be \"(.*?)\"$",
+    "flags": "",
+    "file_colon_line": "step_definitions/calculator_steps.rb:10",
+    "steps": [
+      {
+        "name": "the output should be \"<output>\"",
+        "args": [
+          {
+            "offset": 22,
+            "val": "<output>"
+          }
+        ]
+      }
+    ]
+  }
+]
