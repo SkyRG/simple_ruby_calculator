@@ -6,7 +6,7 @@ Feature: Division
   Scenario Outline: The calculator can divide 2 numbers
     Given the input "<input>" 
     When the calculator is run
-    Then then the output should be "<output>"
+    Then the output should be "<output>"
     Examples:
     |input|output|
     |2/2|1|
