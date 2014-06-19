@@ -8,4 +8,4 @@ Feature: Adding
     | input | output |
     | 2+2   | 4      |
     | 99-1  | 98     |
-    |50*2|100|
+    | 50*2  | 100    |
